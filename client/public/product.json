@@ -1,0 +1,85 @@
+[
+    {
+        "image": "https://i.ibb.co/s9DKwKV/Ergobike-03-300x300-removebg-preview-Copy-Copy.png",
+        "rating": "5",
+        "price": "150",
+        "oldPrice": "200",
+        "name": "Mustang FGH"
+    },
+    {
+        "image": "https://i.ibb.co/ZJb5Q98/product1-removebg-preview.png",
+        "name": "Veloce outrage 603",
+        "rating": "4",
+        "price": "100",
+        "oldPrice": "145"
+    },
+    {
+        "image": "https://i.ibb.co/VJvPx6t/veloce-outrage-605-2018-4-Copy-Copy-removebg-preview.png",
+        "name": "Monstar GSX",
+        "rating": "3.5",
+        "price": "170",
+        "oldPrice": "200"
+    },
+    {
+        "image": "https://i.ibb.co/6yGfFzB/photo-1576435728678-68d0fbf94e91-removebg-preview.png",
+        "name": "Falcon 234GH",
+        "rating": "2.5",
+        "price": "59"
+    },
+    {
+        "image": "https://i.ibb.co/bvDc9R5/White-Bike-1.png",
+        "name": "Ergo trax 2.5",
+        "rating": "5",
+        "price": "140",
+        "oldPrice": "160"
+    },
+    {
+        "image": "https://i.ibb.co/LJRS4Yb/Black-bike-1.png",
+        "name": "Ergo trax 2.5",
+        "rating": "5",
+        "price": "140",
+        "oldPrice": "160"
+    },
+    {
+        "image": "https://i.ibb.co/xJ2x4zX/8.png",
+        "name": "Ergo trax 2.5",
+        "rating": "5",
+        "price": "140",
+        "oldPrice": "160"
+    },
+    {
+        "image": "https://i.ibb.co/KXb5fcM/1.png",
+        "name": "Ergo trax 2.5",
+        "rating": "5",
+        "price": "140",
+        "oldPrice": "160"
+    },
+    {
+        "image": "https://i.ibb.co/W2f1tHX/Product8-a1eaecec-ad6c-4961-b79e-d528d3535387-2000x-removebg-preview.png",
+        "name": "Ergo trax 2.5",
+        "rating": "5",
+        "price": "140",
+        "oldPrice": "160"
+    },
+    {
+        "image": "https://i.ibb.co/F6NnYy9/Product9-1b14add8-6204-4089-83da-985762b304f0-2000x-removebg-preview.png",
+        "name": "Ergo trax 2.5",
+        "rating": "5",
+        "price": "140",
+        "oldPrice": "160"
+    },
+    {
+        "image": "https://i.ibb.co/MhNtjMV/montra-blues-1-2d-hybrid-cycle-2018-500x500-removebg-preview.png",
+        "name": "Ergo trax 2.5",
+        "rating": "5",
+        "price": "140",
+        "oldPrice": "160"
+    },
+    {
+        "image": "https://i.ibb.co/vYjqgs7/10.png",
+        "name": "Ergo trax 2.5",
+        "rating": "5",
+        "price": "140",
+        "oldPrice": "160"
+    }
+]
